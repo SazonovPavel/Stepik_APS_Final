@@ -31,7 +31,7 @@ def browser(request):
 
 
 
-
+# venv\Scripts\activate.bat
 
 # import pytest
 # from selenium import webdriver
